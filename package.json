@@ -16,14 +16,6 @@
     "express": "^4.18.2",
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^6.9.2",
-<<<<<<< HEAD
-<<<<<<< HEAD
-    "stripe": "^13.6.0"
-=======
     "stripe": "^9.14.0"
->>>>>>> 21da38e61d5c06c90b80acf2062929eb8709a385
-=======
-    "stripe": "^13.6.0"
->>>>>>> 437c08645e6f01beedbb8a66aeba81df027970a6
   }
 }
